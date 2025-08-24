@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "2818",
+      "userName": "Sahil",
+      "emailId": "kharwadesahil@gmail.com",
+      "msg": "hello"
+    },
+    {
+      "id": "b2ac",
+      "userName": "Aniket",
+      "emailId": "aniket@gmail.com",
+      "msg": "I want Dhoop "
+    },
+    {
+      "id": "60bd",
+      "userName": "Ram",
+      "emailId": "Ram@gmail.com",
+      "msg": "aaaa"
+    },
+    {
+      "id": "0ea8",
+      "userName": "Raj",
+      "emailId": "raj@gmail.com",
+      "msg": "I want Candle"
+    },
+    {
+      "id": "5a14",
+      "userName": "Raj",
+      "emailId": "raj@gmail.com",
+      "msg": "I want Candle"
+    },
+    {
+      "id": "2e32",
+      "userName": "Raj",
+      "emailId": "raj@gmail.com",
+      "msg": "I want Candle"
+    }
+  ],
+  "cone": [
+    {
+      "id": "1",
+      "cone_imgurl": "/Product_img.jpeg",
+      "cone_Title": "Oudh Royale (Dhoop Cone)",
+      "cone_Text": "Immerse yourself in the mystique of Oudh Royale, where the deep, smoky allure of rare agarwood resin unfolds like an ancient secret. This Dhoop Cone fills the air with its rich, earthy fragrance, enveloping your space in a luxurious atmosphere of opulence and reverence. As the cone burns, it releases a warm, resinous scent that lingers, making it perfect for rituals, moments of reflection, or unwinding with grace. Oudh Royale is a fragrance that evokes the spirit of kings, mystics, and dreamers, creating an ambiance that transcends time."
+    },
+    {
+      "id": "2",
+      "cone_imgurl": "/Product_img.jpeg",
+      "cone_Title": "Myrrh Essence (Dhoop Cone)",
+      "cone_Text": "Step into the sanctity of ancient temples with Myrrh Essence, a Dhoop Cone crafted from the sacred resin of myrrh. This balsamic, earthy aroma grounds the spirit and stills the mind, creating the ideal setting for deep meditation or quiet contemplation. As the cone burns, its warm, slightly sweet and spicy scent unfurls, evoking a sense of timelessness and spiritual depth. Myrrh Essence offers a meditative aura, making it a beautiful companion for moments of reflection and balance."
+    },
+    {
+      "id": "3",
+      "cone_imgurl": "/Product_img.jpeg",
+      "cone_Title": "Gulab Noor (Rose Absolute) (Dhoop Cone)",
+      "cone_Text": "Unveil the essence of pure Indian rose with Gulab Noor, a Dhoop Cone that captures the lush, velvety, and romantic notes of rose absolute. This full-bodied, soul-touching fragrance wraps your senses in tenderness and grace, filling your space with the sweet aroma of devotion and love. As the cone burns, it releases a rich floral scent that envelops you in an atmosphere of serenity and divine beauty. Ideal for love-filled rituals or quiet evenings, Gulab Noor brings elegance and peace to any setting."
+    },
+    {
+      "id": "4",
+      "cone_imgurl": "/Product_img.jpeg",
+      "cone_Title": "Saffron Bloom (Dhoop Cone)",
+      "cone_Text": "Experience the golden, spicy, and ethereal fragrance of Saffron Bloom, a Dhoop Cone that captures the delicate yet powerful aroma of saffron. Prized in royalty and sacred rites, this fragrance offers warmth, depth, and a subtle sweetness that fills the room with luxury. As the cone burns, it releases a rich and complex scent, creating an elevated ambiance where every breath invites a moment of spiritual indulgence. Saffron Bloom is perfect for moments of relaxation, meditation, and indulgence in sacred luxury."
+    }
+  ],
+  "stick": [
+    {
+      "id": "5",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Chandan",
+      "Stick_Text": "A timeless treasure rooted in ancient rituals, Chandan - the sacred essence of sandalwood – envelops your senses in warmth and serenity. Its rich, creamy notes carry a sense of divine calm, gently guiding the mind inward toward stillness and reflection. Revered for centuries in spiritual traditions, this fragrance is not just an aroma but a passage to inner clarity, grounding your soul in peace while uplifting your spirit with its golden aura."
+    },
+    {
+      "id": "6",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Cedar",
+      "Stick_Text": "Whispers of the forest rise with the grounding strength of Cedar, a fragrance that reconnects you with the elemental energy of the earth. Its clean, woody scent brings balance and restoration, evoking quiet walks under ancient trees and the scent of sun-warmed bark. Cedar’s protective and purifying nature makes it a natural ally for emotional clarity and energetic cleansing, offering a cocoon of comfort and renewal in every breath."
+    },
+    {
+      "id": "7",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Maroke Agarwood",
+      "Stick_Text": "Mysterious, rare, and profoundly opulent, Maroke Agarwood is a fragrance born of sacred woods and sacred spaces. This deep, resinous aroma unfolds like an ancient story—layered, spiritual, and indulgently rich. Often called “liquid gold,” agarwood has been used in royal ceremonies and meditative rituals across cultures for its intoxicating, soul-stirring presence. Let its smoky elegance transport you to a world of timeless grace and reverence."
+    },
+    {
+      "id": "8",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Camphor",
+      "Stick_Text": "Clean, sharp, and invigorating, Camphor is nature’s purest purifier. Its crystalline aroma awakens the senses and clears the air with a cooling intensity that revitalizes both mind and space. Long cherished in traditional healing and spiritual cleansing, camphor carries a sacred clarity—banishing negativity and inviting fresh, radiant energy. With each wisp of fragrance, it breathes life into your surroundings and lights the path to inner awakening."
+    },
+    {
+      "id": "9",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Chandan",
+      "Stick_Text": "Gentle and grounding, Chandan exudes the soft, mellow charm of sandalwood in its most approachable form. This subtle yet soulful fragrance wraps your space in a comforting warmth, making it perfect for everyday rituals, quiet mornings, or a moment of pause in your busy day. With every wisp of its golden aroma, Chandan fosters a serene environment where peace flows naturally and effortlessly."
+    },
+    {
+      "id": "10",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Cedar",
+      "Stick_Text": "Crisp, clean, and quietly confident, Cedar brings the spirit of the forest into your home. Its airy, woody character creates a refreshing backdrop for daily life—cleansing the atmosphere, lifting stagnant energy, and inviting clarity. Light this scent when you seek simplicity, calm focus, or the rejuvenating breath of nature in the comfort of your personal space."
+    },
+    {
+      "id": "11",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Maroke Agarwood",
+      "Stick_Text": "Delicate yet profound, Maroke Agarwood offers a whisper of luxury with every burn. This rare and refined scent doesn’t overpower—it invites. With its soft, resinous undertone, it’s perfect for meditative moments, self-reflection, or evenings of quiet solitude. It adds a touch of elegance to your everyday, creating a refined ambiance rooted in ancient serenity."
+    },
+    {
+      "id": "12",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Camphor",
+      "Stick_Text": "Bright and breezy, Camphor carries a clear, cooling aroma that instantly purifies and energizes. Known for its cleansing qualities across cultures, this fragrance effortlessly clears mental fog, uplifts your mood, and refreshes your space. It’s the perfect companion for morning routines, fresh starts, or anytime your surroundings need a crisp, clean reset."
+    },
+    {
+      "id": "13",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Oudh Royale (Dhoop Stick)",
+      "Stick_Text": "The rich, smoky essence of Oudh Royale is captured in every Dhoop Stick, filling your space with an opulent and grounding fragrance. This luxurious aroma evokes the mystique of ancient rituals, creating an atmosphere of sacred serenity and elegance."
+    },
+    {
+      "id": "14",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Myrrh Essence (Dhoop Stick)",
+      "Stick_Text": "Myrrh Essence in Dhoop Stick form offers a deep, earthy, and balsamic aroma that calms the mind and nurtures the spirit. Perfect for meditative practices, it creates a peaceful space of introspection and spiritual grounding."
+    },
+    {
+      "id": "15",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Gulab Noor (Rose Absolute) (Dhoop Stick)",
+      "Stick_Text": "The full-bodied, velvety aroma of Gulab Noor fills the air with the romance of pure Indian rose. This Dhoop Stick creates an atmosphere of divine beauty, making it perfect for love rituals, serene evenings, or adding elegance to any space."
+    },
+    {
+      "id": "16",
+      "Stick_imgurl": "/Product_img.jpeg",
+      "Stick_Title": "Saffron Bloom (Dhoop Stick)",
+      "Stick_Text": "Saffron Bloom brings a rich, golden fragrance with warm, spicy, and slightly sweet notes. As it burns, this Dhoop Stick fills the room with an ethereal and luxurious scent, elevating the atmosphere with its exotic and royal essence."
+    }
+  ],
+  "candles": [
+    {
+      "id": "17",
+      "candle_imgurl": "/Product_img.jpeg",
+      "candle_Title": "Insane Candle",
+      "candle_Text": "Immerse in serenity with our Insane Sticks, made from recycled temple flowers. Each stick carries a rich, natural aroma designed to calm the senses and elevate your space. Crafted with care, they blend tradition with mindful living. Long-lasting, eco-conscious, and deeply soulful."
+    },
+    {
+      "id": "18",
+      "candle_imgurl": "/Product_img.jpeg",
+      "candle_Title": "Insane Candle",
+      "candle_Text": "Immerse in serenity with our Insane Sticks, made from recycled temple flowers. Each stick carries a rich, natural aroma designed to calm the senses and elevate your space. Crafted with care, they blend tradition with mindful living. Long-lasting, eco-conscious, and deeply soulful."
+    },
+    {
+      "id": "19",
+      "candle_imgurl": "/Product_img.jpeg",
+      "candle_Title": "Insane Candle",
+      "candle_Text": "Immerse in serenity with our Insane Sticks, made from recycled temple flowers. Each stick carries a rich, natural aroma designed to calm the senses and elevate your space. Crafted with care, they blend tradition with mindful living. Long-lasting, eco-conscious, and deeply soulful."
+    }
+  ]
+}
